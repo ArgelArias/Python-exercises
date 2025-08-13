@@ -1,0 +1,11 @@
+#create the virtual environment
+python3 -m venv <venv-name>
+
+#activate the venv
+source <venv-name>/bin/activate
+
+#deactiatee the venv
+deactivate
+
+#get the python modules installed
+pip3 freeze
