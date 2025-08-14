@@ -9,3 +9,6 @@ deactivate
 
 #get the python modules installed
 pip3 freeze
+
+#install modules defined since a text file
+pip3 install -r <file.txt>
