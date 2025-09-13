@@ -1,0 +1,4 @@
+Cada palabra de este texto es un elemento de una lista en python.
+Tambien
+en 
+multilinea.
